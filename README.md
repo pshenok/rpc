@@ -1,8 +1,8 @@
-# Rpc module for Mobile Banking
+# Rpc module for Library
 
 ## commit
 
 ```bash
-yarn isntall
+yarn install
 yarn build
 ```

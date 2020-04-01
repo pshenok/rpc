@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "ssh://git@gitlab.uapay.ua:MOBILE_BANK/appgateway.git"
+    "url": "ssh://git@github.com:pshenok/rpc.git"
   },
   "author": "pshenok",
   "license": "UNLICENSED",

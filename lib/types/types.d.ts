@@ -11,30 +11,7 @@ export interface IRpcConfig {
 	rpc: {
 		GeneralRpcClient?: IRpcClientConfig,
 
-		AdminService?: IRpcClientConfig;
-		AgentService?: IRpcClientConfig;
-		AppService?: IRpcClientConfig;
-		BankingService?: IRpcClientConfig;
-		CardService?: IRpcClientConfig;
-		ConditionStateService?: IRpcClientConfig;
-		ContactService?: IRpcClientConfig;
-		CrmService?: IRpcClientConfig;
-		CronService?: IRpcClientConfig;
-		CryptoService?: IRpcClientConfig;
-		DeliveryService?: IRpcClientConfig;
-		FileStorage?: IRpcClientConfig;
-		HistoryService?: IRpcClientConfig;
-		MessageService?: IRpcClientConfig;
-		NoticeService?: IRpcClientConfig;
-		OperationService?: IRpcClientConfig;
-		PaymentService?: IRpcClientConfig;
-		StaticDataService?: IRpcClientConfig;
-		UserService?: IRpcClientConfig;
-		WalletService?: IRpcClientConfig;
-		PubSubService?: IRpcClientConfig;
-		ProcessingService?: IRpcClientConfig;
-		RequestService?: IRpcClientConfig;
-		ReportService?: IRpcClientConfig;
+		BookService?: IRpcClientConfig;
 	};
 }
 
